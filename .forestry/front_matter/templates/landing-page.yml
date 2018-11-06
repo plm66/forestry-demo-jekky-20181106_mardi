@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- landing-page-de-cacaodelafrique.md
 - index.md
