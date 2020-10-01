@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: 'yes'
+  create: all
+  match: "**/*"
+  templates:
+  - dua-lipa
+- type: directory
   path: 'yes'
   label: 'Yes'
   create: all
