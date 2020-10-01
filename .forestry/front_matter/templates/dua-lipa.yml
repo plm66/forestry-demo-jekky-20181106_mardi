@@ -1,0 +1,12 @@
+---
+label: Dua Lipa
+hide_body: false
+fields:
+- name: titre
+  type: text
+  config:
+    required: true
+    max: 30
+  label: Titre
+  description: Le gros titre en H1
+  default: T...
